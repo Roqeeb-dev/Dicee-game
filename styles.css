@@ -39,3 +39,13 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+@media screen  and (max-width: 500px){
+  h1 {
+    font-size: 3rem;
+    margin: 15px;
+  }
+  p{
+    font-size: 1rem;
+  }
+}
